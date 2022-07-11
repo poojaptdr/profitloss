@@ -1,0 +1,27 @@
+body {
+     text-align: center;
+}
+
+label{
+     display: block;
+     padding-top: 1rem;
+}
+
+button{
+     display: block;
+     margin: auto;
+     margin-top: 1rem;
+     padding: 0.5rem 1rem;
+     border-radius: 0.5rem;
+}
+
+input{
+    border-radius: 5px;
+    padding: 0.5rem 1rem
+}
+
+#output-box{
+    margin: 1rem;
+    font-size: 20px;
+    color: #333;
+}
